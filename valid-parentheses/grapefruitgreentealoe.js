@@ -26,3 +26,4 @@ var isValid = function(s) {
 //시간복잡도: O(n)
 //공간복잡도 : O(n)
 
+// openArr의 요소를 key로하고, closeArr의 요소를 value로 해도 좋았을 것 같음.
